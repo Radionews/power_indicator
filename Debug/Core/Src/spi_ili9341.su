@@ -1,0 +1,16 @@
+spi_ili9341.c:12:6:TFT9341_reset	8	static
+spi_ili9341.c:21:6:TFT9341_ini	40	static
+spi_ili9341.c:180:6:TFT9341_SendCommand	16	static
+spi_ili9341.c:187:6:TFT9341_SendData	16	static
+spi_ili9341.c:193:6:TFT9341_WriteData	32	static
+spi_ili9341.c:206:13:TFT9341_SetAddrWindow	32	static
+spi_ili9341.c:225:6:TFT9341_FillRect	32	static
+spi_ili9341.c:234:6:TFT9341_Draw_Colour_Burst	104	dynamic
+spi_ili9341.c:275:6:TFT9341_FillScreen	24	static
+spi_ili9341.c:280:6:TFT9341_Draw_Number	856	static
+spi_ili9341.c:328:6:TFT9341_Draw_Temp_Line	40	static
+spi_ili9341.c:342:6:TFT9341_Clear	40	static
+spi_ili9341.c:389:6:TFT9341_Draw_Point_U	24	static
+spi_ili9341.c:403:6:TFT9341_Draw_Point_I	24	static
+spi_ili9341.c:417:6:TFT9341_Draw_U	40	static
+spi_ili9341.c:438:6:TFT9341_Draw_I	40	static
